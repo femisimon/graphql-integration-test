@@ -1,3 +1,9 @@
+# Lesson 2
+## In this Lesson
+- Write your graph's schema
+- Set up Apollo Server
+- Run your server
+
 ## Mutation
 ### What is Mutation
 The Mutation type is the entry point into our graph for modifying data.
